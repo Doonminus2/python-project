@@ -1,0 +1,13 @@
+min,mocha,2
+min,latte,1
+min,cheesecake,1
+red,espresso,1
+pie,latte,1
+red,latte,1
+red,orange cake,1
+Good,mocha,2
+tuan,latte,2
+tuan,espresso,1
+tuan,orange cake,1
+pie,latte,1
+pie,orange cake,1
