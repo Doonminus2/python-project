@@ -9,3 +9,6 @@
 2024-11-01,pi,coconut cake,1
 2024-11-02,somchai,coconut cake,1
 2024-11-02,somchai,orange cake,1
+2024-11-02,jojo,espresso,1
+2024-11-02,jojo,coconut cake,1
+2024-11-02,jojo,orange cake,1
