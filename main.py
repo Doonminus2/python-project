@@ -1,14 +1,16 @@
-from select_order import select_order, display_sales_summary
+from select_order import select_order, ReportOrderDaily, ReportALL
 
 def main():
     while True:
-        action = input("Choose an action (order, display, exit): ")
+        action = input("Choose an action (A for order, B for Report All time, C for Report Daily  , exit): ")
         if action == 'exit':
             break
-        elif action == 'order':
+        elif action == 'A':
             select_order()
-        elif action == 'display':
-            display_sales_summary()  # เรียกใช้ฟังก์ชันแสดงผล
+        elif action == 'B':
+            ReportALL()  # เรียกใช้ฟังก์ชันแสดงผล
+        elif action == 'C':
+            ReportOrderDaily()
 
 if __name__ == '__main__':
     main()

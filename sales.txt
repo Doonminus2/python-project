@@ -1,13 +1,11 @@
-min,mocha,2
-min,latte,1
-min,cheesecake,1
-red,espresso,1
-pie,latte,1
-red,latte,1
-red,orange cake,1
-Good,mocha,2
-tuan,latte,2
-tuan,espresso,1
-tuan,orange cake,1
-pie,latte,1
-pie,orange cake,1
+2024-11-01Good,coconut cake,1
+2024-11-01Good,mocha,1
+2024-11-01somchai,latte,2
+2024-11-01somchai,orange cake,1
+2024-11-01pie,orange cake,1
+2024-11-01pie,latte,1
+2024-11-01,tuan,latte,2
+2024-11-01,pi,mocha,1
+2024-11-01,pi,coconut cake,1
+2024-11-02,somchai,coconut cake,1
+2024-11-02,somchai,orange cake,1
