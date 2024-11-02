@@ -12,3 +12,5 @@
 2024-11-02,jojo,espresso,1
 2024-11-02,jojo,coconut cake,1
 2024-11-02,jojo,orange cake,1
+2024-11-02,chitsanupat,mocha,1
+2024-11-02,chitsanupat,coconut cake,1
