@@ -1,7 +1,10 @@
 import datetime  # เอามาใช้ระบุวันที่คิดorderของพลักงาน
 from menu import menu_list  
 from order import order_list  
-from employee import calculate_commission  # นำเข้าฟังก์ชันคำนวณคอมมิชชั่นจากไฟล์ employee.py
+
+def calculate_commission(total_sales, commission_rate=0.05):
+    """คำนวณค่าคอมมิชชั่นจากยอดขาย"""
+    return total_sales * commission_rate 
 
 def select_order():
     employee = input("Enter employee name: ")  # รับชื่อพนักงานจากผู้ใช้งาน

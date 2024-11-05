@@ -14,3 +14,8 @@
 2024-11-02,jojo,orange cake,1
 2024-11-02,chitsanupat,mocha,1
 2024-11-02,chitsanupat,coconut cake,1
+2024-11-04,wayu,latte,1
+2024-11-04,somchai,coconut cake,1
+2024-11-04,somchai,latte,2
+2024-11-04,Don,cheesecake,1
+2024-11-04,jojo,latte,1
